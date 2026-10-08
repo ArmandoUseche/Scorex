@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+firebase-service-account.json
+frontend/android/app/google-services.json
+frontend/www/
+.angular/
+
